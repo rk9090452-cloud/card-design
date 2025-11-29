@@ -1,0 +1,38 @@
+.card{
+    width: 300px;
+    border-width: 2px;
+    height: 500px;
+    border-style:double;
+    border-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+img{
+border-radius: 50px;
+border-style: none;
+padding: 10px;
+
+}
+.card button{
+    color: white;
+    background-color:blueviolet;
+    border-radius: 5px;
+    
+
+}
+h1{
+    font-size: 50px;
+    color: blue;
+}
+
+.card p{
+    color: black;
+    font-size: 30px;
+    
+}
+.card {
+    font-size: 40px;
+}
